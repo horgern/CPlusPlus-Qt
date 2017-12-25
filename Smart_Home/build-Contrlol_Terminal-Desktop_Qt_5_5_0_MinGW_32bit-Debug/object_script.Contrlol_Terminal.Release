@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\setting.o
+./release\setting_menu.o
+./release\mythread.o
+./release\myserial.o
+./release\moc_widget.o
+./release\moc_setting.o
+./release\moc_setting_menu.o
+./release\moc_mythread.o
+./release\moc_myserial.o
+);
