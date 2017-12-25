@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\map.o
+./debug\browser.o
+./debug\music_player.o
+./debug\mythread.o
+./debug\qrc_image.o
+./debug\moc_widget.o
+./debug\moc_map.o
+./debug\moc_browser.o
+./debug\moc_music_player.o
+./debug\moc_mythread.o
+);

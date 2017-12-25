@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\map.o
+./release\browser.o
+./release\music_player.o
+./release\mythread.o
+./release\qrc_image.o
+./release\moc_widget.o
+./release\moc_map.o
+./release\moc_browser.o
+./release\moc_music_player.o
+./release\moc_mythread.o
+);
